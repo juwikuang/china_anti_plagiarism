@@ -6,4 +6,4 @@ This is an anti-plagiarism repo to protect Chinese developers who write technica
 
 
 
-
+![](https://github.com/juwikuang/china_anti_plagiarism/blob/master/images/WeChat%20Image_20190421001045.jpg?raw=true)
