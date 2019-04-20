@@ -1,4 +1,4 @@
-# Blacklist of Plagiarism 剽窃黑名单
+# template
 
 
 
